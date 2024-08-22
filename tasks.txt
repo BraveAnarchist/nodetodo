@@ -1,0 +1,14 @@
+[
+  {
+    "description": "sleep",
+    "completed": true
+  },
+  {
+    "description": "rest",
+    "completed": false
+  },
+  {
+    "description": "eat",
+    "completed": false
+  }
+]
